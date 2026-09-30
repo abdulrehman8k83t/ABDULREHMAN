@@ -1,0 +1,8 @@
+{
+  "name": "All-In-Download",
+  "description": "A privacy-first Android download manager, local media library, and Media3 player for authorized direct files and imported media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
